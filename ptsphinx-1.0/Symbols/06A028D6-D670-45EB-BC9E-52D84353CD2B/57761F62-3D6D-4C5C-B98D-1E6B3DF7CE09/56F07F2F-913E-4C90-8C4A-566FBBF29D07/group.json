@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "56F07F2F-913E-4C90-8C4A-566FBBF29D07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 707,
+    "x": 652,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7FE8EF5B-E32D-47E1-9EBB-A7315E499D44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DEFAE37-D803-439E-9371-001CC94ADFA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8ED40C50-7A30-49BA-BED9-D5931252D8FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89F7C06D-D48D-45B8-B7BC-AC02C912D98A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "655B7142-D6F5-4433-B4DB-0632E1A21558"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E4A7791-FC58-4CC2-ABB1-67DB293E5095"
+    },
+    {
+      "class": "text",
+      "id": "F40861AD-B357-473D-865D-22845547069B"
+    },
+    {
+      "class": "text",
+      "id": "948C8E36-1B59-4480-B920-A39803986E20"
+    },
+    {
+      "class": "text",
+      "id": "351ED567-9EFD-4E82-A816-F3A682C7395E"
+    },
+    {
+      "class": "group",
+      "id": "01A4E535-7B05-41CC-A665-F51032598F07"
+    }
+  ],
+  "name": "Navigation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 40,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

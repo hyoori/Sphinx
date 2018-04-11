@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "63519156-8594-4B05-8602-949CD6D0C03A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "746B9413-7783-4292-B4E1-B7B5238F1973"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88355CED-3926-46A4-8571-3E5AFA3641F0"
+    },
+    {
+      "class": "group",
+      "id": "16D587FC-F36E-4F27-A6B1-EC73249766B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "313333C9-D18F-408E-85F3-8E734EC86C0A"
+    }
+  ],
+  "name": "hammer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 60,
+            "enabled": 1,
+            "modelID": "constraint_87e2c8a8-a120-4a26-b734-9e5605c664a0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 60
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_49a38ec0-1a17-4299-9f3b-58ed7398932b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

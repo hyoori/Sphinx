@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "1E724BA6-EE5F-419E-AD3C-26C34BB8A080",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 721,
+    "x": 720,
+    "y": 720
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5584BDB4-BA82-40D5-85A8-8921C1BAF02F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABC23D78-6F28-4298-8FC0-7DDA235B895C"
+    },
+    {
+      "class": "group",
+      "id": "F06EBF81-4723-430F-AFD4-7E7DE2A1B223"
+    }
+  ],
+  "name": "Overlay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
